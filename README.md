@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/satoshimatsuzawajj/azure-devops-sample/_apis/build/status/chacco38.azure-devops-sample?branchName=master)](https://dev.azure.com/satoshimatsuzawajj/azure-devops-sample/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
